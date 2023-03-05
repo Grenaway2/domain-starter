@@ -7,7 +7,7 @@ import React, { useEffect, useState } from "react";
 import polygonLogo from "./assets/polygonlogo.png";
 
 const tld = ".smoe";
-const CONTRACT_ADDRESS = '0x3622937273af168BE531cb5E7328800F67CA15C8';
+const CONTRACT_ADDRESS = '0xEB002f2CEf14B90a7e899d6D7625B4d0F5B29651';
 
 const App = () => {
 	const [mints, setMints] = useState([]);
